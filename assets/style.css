@@ -1,0 +1,35 @@
+header {
+	margin-bottom: 2rem;
+	margin-top: 1rem;
+}
+
+h1 {
+	font-family: 'Fresca', sans-serif;
+	color: #58636b;
+}
+
+h1 > img {
+	max-width: 6em;
+	vertical-align: sub;
+}
+
+h1 > span {
+	color: red;
+}
+
+ul {
+	overflow: auto;
+	min-height: 6em;
+	border: 1px solid #eee;
+	border-radius: 4px;
+}
+
+li {
+	padding: 0.1em;
+}
+
+p { 
+	font-weight: 600; 
+	color: #1779ba;
+	color: #14679e;
+}

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "abraham/twitteroauth": "^0.7.3",
+        "zurb/foundation": "^6.3"
+    }
+}
