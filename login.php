@@ -5,8 +5,8 @@
 	use Abraham\TwitterOAuth\TwitterOAuth;
 
 	//Define global variables
-	define('CONSUMER_KEY', 'wV01D7WvfQlI282AqMnaR2Kms');
-	define('CONSUMER_SECRET', 'eM9JAhP8aLvD2BvFC9RhOGOOR9sbGnTLlhPgFYmy8Mmi9RBujc');
+	define('CONSUMER_KEY', '<ton-consumer-key>');
+	define('CONSUMER_SECRET', '<ton-consumer-secret>');
 	define('OAUTH_CALLBACK', 'http://localhost/beCode/twitter/callback.php');
 
 	/*unset($_SESSION['oauth_token']);
